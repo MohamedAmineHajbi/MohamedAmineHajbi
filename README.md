@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Hajbi</h1>
 <h3 align="center">A passionate web developer from Tunisia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedaminehajbi" alt="mohamedaminehajbi" /></a> </p>
 
 - 🌱 I’m currently learning **Symfony 6**
 
